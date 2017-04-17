@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1492371681 source:/home/ahmed/Desktop/Compiler Phase 2/Compiler Phase II/LL1_Parser.cpp
+	"LL1_Parser.h"
+	<iostream>
+	<fstream>
+	<bits/stdc++.h>
+
+1492368080 /home/ahmed/Desktop/Compiler Phase 2/Compiler Phase II/LL1_Parser.h
+	<bits/stdc++.h>
+
+1492277721 source:/home/ahmed/Desktop/Compiler Phase 2/Compiler Phase II/main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"LL1_Parser.h"
+
